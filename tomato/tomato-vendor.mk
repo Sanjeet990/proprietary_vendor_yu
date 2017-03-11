@@ -52,11 +52,9 @@ PRODUCT_COPY_FILES += \
     vendor/yu/tomato/proprietary/vendor/lib64/lib-imsvt.so:system/vendor/lib64/lib-imsvt.so \
     vendor/yu/tomato/proprietary/vendor/lib64/lib-imsxml.so:system/vendor/lib64/lib-imsxml.so \
     vendor/yu/tomato/proprietary/vendor/lib64/lib-dplmedia.so:system/vendor/lib64/lib-dplmedia.so \
- 
     vendor/yu/tomato/proprietary/vendor/lib64/lib-imss.so:system/vendor/lib64/lib-imss.so \
     vendor/yu/tomato/proprietary/vendor/lib64/lib-imsrcscmservice.so:system/vendor/lib64/lib-imsrcscmservice.so \    
     vendor/yu/tomato/proprietary/vendor/lib64/lib-rcsimssjni.so:system/vendor/lib64/lib-rcsimssjni.so \
-     
     vendor/yu/tomato/proprietary/bin/imscmservice:system/bin/imscmservice \
     vendor/yu/tomato/proprietary/bin/imsqmidaemon:system/bin/imsqmidaemon \
     vendor/yu/tomato/proprietary/bin/ims_rtp_daemon:system/bin/ims_rtp_daemon \
